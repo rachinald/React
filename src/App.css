@@ -1,0 +1,21 @@
+.articleRow {
+  align-items: center;
+  border: 10px solid red;
+  margin: 30px 30px;
+  display: flex;
+  justify-content: center;
+  width: 80%;
+}
+
+.box2 {
+  border: 10px solid blue;
+  margin: 0px 10px;
+  width: 20%;
+  padding: 20px;
+}
+
+.image {
+  height: 50%;
+  width: 150px;
+  border: 10px solid green;
+}
